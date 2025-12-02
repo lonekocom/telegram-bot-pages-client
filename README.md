@@ -13,6 +13,7 @@
 [**Скачать последнюю версию**](https://github.com/lonekocom/telegram-bot-pages-client/releases/latest/download/TelegramBot_Setup.exe)
 
 ![Main Application Interface](docs/screenshots/main-window.png)
+![Content Editor](docs/screenshots/content-editor.png)
 
 </div>
 
