@@ -3,7 +3,7 @@
 # 🤖 Telegram Bot Pages Manager (Windows)
 
 **Desktop application for Windows to create and manage Telegram bots with customizable pages**  
-**Десктопное приложение для Windows для создания и управления Telegram-ботами с настраиваемыми страницами**
+**Десктопное приложение для Windows для создания и управления Telegram-бота с настраиваемыми страницами**
 
 [![Windows](https://img.shields.io/badge/Windows-10/11-0078D6?logo=windows&logoColor=white)](https://github.com/lonekocom/telegram-bot-pages/releases)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
