@@ -9,8 +9,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[**Download Latest Release**](https://github.com/lonekocom/telegram-bot-pages/releases/latest) • 
-[**Скачать последнюю версию**](https://github.com/lonekocom/telegram-bot-pages/releases/latest)
+[**Download Latest Release**](https://github.com/lonekocom/telegram-bot-pages-client/releases/download/v1.0.0/TelegramBot_Setup.exe) • 
+[**Скачать последнюю версию**](https://github.com/lonekocom/telegram-bot-pages-client/releases/download/v1.0.0/TelegramBot_Setup.exe)
 
 ![Main Application Interface](docs/screenshots/main-window.png)
 
