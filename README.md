@@ -18,7 +18,7 @@
 
 ---
 
-## 🇬🇧 English Version
+## [EN] English Version
 
 ### 📌 What This Is
 
