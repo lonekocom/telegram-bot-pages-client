@@ -39,7 +39,7 @@ A **Windows desktop application** built with Tkinter that allows you to:
 3. Copy the **API Token** you receive
 
 #### Step 2: Run the Application
-1. Download the latest `.exe` from [Releases](https://github.com/lonekocom/telegram-bot-pages/releases)
+1. Download the latest `.exe` from [Releases](https://github.com/lonekocom/telegram-bot-pages-client/releases)
 2. Run `TelegramBotApp.exe`
 3. Paste your bot token in settings
 
